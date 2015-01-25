@@ -16,3 +16,7 @@ What the r code 'run_analysis.R' do is:
 ### How the code work
 
 Just run the code in R console or RStuio.
+
+### Variables Code
+
+The variables code is in file variables.md.
